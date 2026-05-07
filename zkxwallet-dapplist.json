@@ -1,0 +1,52 @@
+{
+  "name": "ZKX Wallet Dapps",
+  "timestamp": "2026-05-07T05:36:27.421Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "daps": [
+    {
+      "id": "libertyswap.finance",
+      "url": "https://libertyswap.finance",
+      "name": "Liberty Swap",
+      "icon": "https://libertyswap.finance/android-icon-192x192.png",
+      "description": "Experience instant, gasless cross-chain transfers to PulseChain. Our intent-based swap engine eliminates the need for native gas tokens, providing a free gas experience for effortless onboarding.",
+      "chainIds": [
+        369,
+        1,
+        56,
+        8453,
+        42161,
+        119,
+        84532,
+        137
+      ],
+      "category": "Dexes",
+      "twitter": "LibertySwapFi"
+    },
+    {
+      "id": "x.libertyswap.finance",
+      "url": "https://x.libertyswap.finance",
+      "name": "LibertyX",
+      "icon": "https://libertyswap.finance/android-icon-192x192.png",
+      "description": "The premier PulseChain DEX aggregator featuring intent-based execution and built-in MEV protection. Enjoy a seamless trading experience with zero fees and optimal price routing across the entire ecosystem.",
+      "chainIds": [
+        369
+      ],
+      "category": "Dexes",
+      "twitter": "LibertySwapFi"
+    },
+    {
+      "id": "drops.bot",
+      "url": "https://www.drops.bot/?r=ambire",
+      "name": "Drops",
+      "icon": "https://avatars.githubusercontent.com/u/175563563?v=4",
+      "description": "Check any crypto wallet address for unclaimed airdrops with Drops.",
+      "twitter": "DropsBotHQ",
+      "category": "Analytics"
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/libertyswap-icon.svg"
+}
