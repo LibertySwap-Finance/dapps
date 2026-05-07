@@ -46,6 +46,19 @@
       "description": "Check any crypto wallet address for unclaimed airdrops with Drops.",
       "twitter": "DropsBotHQ",
       "category": "Analytics"
+    },
+    {
+      "id": "herobase.io",
+      "url": "https://herobase.io",
+      "name": "HERO Base",
+      "icon": "https://raw.githubusercontent.com/jratdish1/dapps/add-herobase-dapp/dapp-logo/herobase.io.png",
+      "description": "PulseChain and BASE DEX aggregator built for veterans. Best swap rates across PulseX, 9inch, and Liberty Swap with gasless transactions, DCA orders, limit orders, and portfolio tracking.",
+      "chainIds": [
+        369,
+        8453
+      ],
+      "category": "DeFi",
+      "twitter": "hero501c3"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/libertyswap-icon.svg"
