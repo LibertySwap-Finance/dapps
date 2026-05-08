@@ -46,6 +46,1251 @@
       "description": "Check any crypto wallet address for unclaimed airdrops with Drops.",
       "twitter": "DropsBotHQ",
       "category": "Analytics"
+    },
+    {
+      "id": "ipfs.app.pulsex.com",
+      "url": "https://ipfs.app.pulsex.com",
+      "name": "PulseX",
+      "icon": "https://tokens.app.pulsex.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png",
+      "description": "A Uniswap fork that rewards liquidity providers with PLSX tokens, aiming to provide the best trading experience and yield farming opportunities on PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "gopulse.com",
+      "url": "https://gopulse.com/faucet",
+      "name": "GoPulse",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/gopulse/logo.jpeg",
+      "description": "The PulseChain Suite with on-chain statistics",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.chomp.games",
+      "url": "https://app.chomp.games/login",
+      "name": "Chomp",
+      "icon": "https://raw.githubusercontent.com/gator-labs/chomp/main/public/avatars/0.png",
+      "description": "The fast-paced quiz/trivia game that distills best-in-class insights while you play and earn rewards",
+      "chainIds": [
+        900
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "moralis.com",
+      "url": "https://moralis.com/portfolio",
+      "name": "Moralis",
+      "icon": "https://developers.moralis.com/wp-content/uploads/2023/01/moralisLogoBrand2.png",
+      "description": "Crypto and blockchain",
+      "chainIds": [
+        1,
+        8453,
+        56,
+        10,
+        137,
+        369,
+        900
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "pulseswap.io",
+      "url": "https://pulseswap.io",
+      "name": "PulseSwap.io",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/pulseswap/logo.png",
+      "description": "The Aggregator of Aggregators",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "intel.arkm.com",
+      "url": "https://intel.arkm.com/explorer/address/{address}",
+      "name": "ARKHAM",
+      "icon": "https://cdn.prod.website-files.com/62879326fd745f7489b43224/62a3b3bf456e0623ef2b6aa9_Novo%20Projeto%20(2).png",
+      "description": "Trading is live on the Arkham Exchange",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        8453,
+        900
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "hexscout.com",
+      "url": "https://hexscout.com/market",
+      "name": "HEXScout",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/hexscount/logo_400x400.jpeg",
+      "description": "The easiest way to learn about HEX",
+      "chainIds": [
+        1,
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "zkp2p.xyz",
+      "url": "https://zkp2p.xyz/",
+      "name": "ZKP2P",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/ZKP2P/logo.png",
+      "description": "ZKP2P",
+      "chainIds": [
+        1,
+        8453,
+        900,
+        137
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "0xbow.io",
+      "url": "https://0xbow.io",
+      "name": "0xbowio",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/0xbowio/logo.jpg",
+      "description": "Onchain Privacy Pools",
+      "chainIds": [
+        1
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "unich.com",
+      "url": "https://unich.com/en",
+      "name": "UNICH",
+      "icon": "https://assets.coingecko.com/coins/images/66862/standard/UN-200.png?1750864094",
+      "description": "Advanced exchange revolutionizing Pre-TGE Finance",
+      "chainIds": [
+        1,
+        56,
+        8453,
+        900
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.pulse.domains?ref=wallets.pls",
+      "url": "https://app.pulse.domains?ref=wallets.pls",
+      "name": "Pulse Domains",
+      "icon": "https://assets-global.website-files.com/62d61345b4ae5b6afa3da657/637edd25937b311e306e82ee_webclip.png",
+      "description": "Decentralized naming for wallets, websites, & more",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "smolrefuel.com",
+      "url": "https://smolrefuel.com/",
+      "name": "SmolRefuel",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/SmolRefuel/smolrefuel_logo.png",
+      "description": "SmolRefuel",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114,
+        324
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "tokensex.link",
+      "url": "https://tokensex.link/",
+      "name": "Tokens Express",
+      "icon": "https://pbs.twimg.com/profile_images/1541308431193149440/-JFKl7xO_200x200.jpg",
+      "description": "Tokens Express",
+      "chainIds": [
+        1,
+        56,
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.pendle.finance",
+      "url": "https://app.pendle.finance/",
+      "name": "Pendle",
+      "icon": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+      "description": "Pendle is a permissionless yield-trading protocol where users can execute various yield-management strategies",
+      "chainIds": [
+        1,
+        10,
+        56,
+        42161
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "gibs.finance",
+      "url": "https://gibs.finance/bridge",
+      "name": "Gibs",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/gibsFinance/logo.png",
+      "description": "Ether delivery protect your privacy, keep custody of your tokens",
+      "chainIds": [
+        1,
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.piteas.io",
+      "url": "https://app.piteas.io/",
+      "name": "Piteas",
+      "icon": "https://sacrifice.piteas.io/img/logo-icon.png",
+      "description": "Piteas is a decentralized exchange (DEX) aggregator that provides the latest in swap technology",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "matcha.xyz",
+      "url": "https://matcha.xyz/tokens/ethereum/eth",
+      "name": "Matcha",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/matcha/logo_x96.jpeg",
+      "description": "Buy, sell, and explore tokens and NFTs",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        8453,
+        42161,
+        43114
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "curve.fi",
+      "url": "https://curve.fi/#/ethereum/swap",
+      "name": "Curve",
+      "icon": "https://assets.coingecko.com/markets/images/538/small/Curve.png?1591605481",
+      "description": "Creating deep on-chain liquidity using advanced bonding curves",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        8453,
+        42161,
+        43114
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "dapp.phame.io",
+      "url": "https://dapp.phame.io/#/trade",
+      "name": "Phame",
+      "icon": "https://assets.coingecko.com/coins/images/31825/small/CG_Logo.png?1695207362",
+      "description": "Phame dApp",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "phux.io",
+      "url": "https://phux.io/#/pulse",
+      "name": "The PH Universe Xchange",
+      "icon": "https://assets.coingecko.com/markets/images/1202/small/phux.jpeg?1690946772",
+      "description": "The PH Universe Xchange",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.9inch.io",
+      "url": "https://app.9inch.io/?chain=pulsechain",
+      "name": "9INCH",
+      "icon": "https://assets.coingecko.com/coins/images/32662/standard/9INCH-logo.png?1698901092",
+      "description": "9 inch",
+      "chainIds": [
+        1,
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "changenow.io",
+      "url": "https://changenow.io/",
+      "name": "Change Now",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3893.png",
+      "description": "Change Now",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114,
+        900
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "app.1inch.io",
+      "url": "https://app.1inch.io/",
+      "name": "1 INCH",
+      "icon": "https://assets.coingecko.com/coins/images/13469/standard/1inch-token.png?1696513230",
+      "description": "1INCH Network",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114,
+        324
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "swap.cow.fi",
+      "url": "https://swap.cow.fi/",
+      "name": "Cow Swap",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png",
+      "description": "the first trading interface built on top of CoW Protocol.",
+      "chainIds": [
+        1,
+        42161
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "coinmarketcap.com",
+      "url": "https://coinmarketcap.com/",
+      "name": "CoinMarketCap",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/coinmarketcap/coinmarketcap_logo.png",
+      "description": "the world's most-referenced price-tracking website for cryptoassets",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "www.coingecko.com",
+      "url": "https://www.coingecko.com/",
+      "name": "CoinGecko",
+      "icon": "https://cdn.freelogovectors.net/wp-content/uploads/2021/12/coingecko-logo-freelogovectors.net_-400x400.png",
+      "description": "the world\u2019s largest independent cryptocurrency data aggregator",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "gopulse.com",
+      "url": "https://gopulse.com/x/embed?r=0xd3b566722f817b548d26d39970880fc2ee5c08e6",
+      "name": "GoPulseX",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/gopulse/logo.jpeg",
+      "description": "GoPulseX is PulseChain's all-in-one trading platform that saves and earns you money",
+      "chainIds": [
+        369
+      ],
+      "category": "Exchange"
+    },
+    {
+      "id": "blast.io",
+      "url": "https://blast.io/en/bridge",
+      "name": "Blast Bridge",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/blast/logo.png",
+      "description": "The L2 that helps you earn more",
+      "chainIds": [
+        1
+      ],
+      "category": "Cross-chain"
+    },
+    {
+      "id": "ipfs.bridge.pulsechain.com",
+      "url": "https://ipfs.bridge.pulsechain.com",
+      "name": "Pulsechain Bridge",
+      "icon": "https://storage.googleapis.com/subgraph-images/1641537036090Artboard%202.png",
+      "description": "PulseChain's Decentralized Bridge for tranfering assets from other blockchain networks to PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "Cross-chain"
+    },
+    {
+      "id": "letsexchange.io",
+      "url": "https://letsexchange.io/",
+      "name": "LetsExchange",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/letsexchange/logo_400x400.png",
+      "description": "A crypto exchange that saves you time and money. It is free to use, has no limits, and is built by experts",
+      "chainIds": [
+        369
+      ],
+      "category": "Cross-chain"
+    },
+    {
+      "id": "app.pulseln.com",
+      "url": "https://app.pulseln.com/?ref=4kq7O900166s251o982q60q73314224sp6Rr9P42R0",
+      "name": "Pulse LN",
+      "icon": "https://pulseln.com/img/wordmarkShort.png",
+      "description": "PulseChain's Fastest Fiat Onramp",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161
+      ],
+      "category": "Cross-chain"
+    },
+    {
+      "id": "portalxswap.io",
+      "url": "https://portalxswap.io/",
+      "name": "PortalXSwap",
+      "icon": "https://portalxswap.io/assets/images/portalx-logo.png",
+      "description": "Portal X Swap of Power city",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114,
+        900
+      ],
+      "category": "Cross-chain"
+    },
+    {
+      "id": "t-box.live",
+      "url": "https://t-box.live/",
+      "name": "T-Box Live",
+      "icon": "https://t-box.live/images/logo.png",
+      "description": "An Exclusive Bonus Reward To Be Shared Among All Holders",
+      "chainIds": [
+        56
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.angle.money",
+      "url": "https://app.angle.money/",
+      "name": "Angle",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/angle/angle-protocol-fill-coral-light.png",
+      "description": "Deposit into the Angle Savings product, called stUSD, and passively earn a native Dollar yield",
+      "chainIds": [
+        1,
+        10,
+        8453,
+        42161
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.vouch.run",
+      "url": "https://app.vouch.run/PLS/",
+      "name": "Vouch",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/vouch.png",
+      "description": "Liquid Staking on PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pump.tires",
+      "url": "https://pump.tires/",
+      "name": "PUMP Tires",
+      "icon": "https://pump.tires/images/pumptires-symbol.png",
+      "description": "The easiest way to create and launch coins on PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "dapp.betterbank.io",
+      "url": "https://dapp.betterbank.io/",
+      "name": "Betterbank",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/betterbank/logo.png",
+      "description": "Revolutionary DeFi (Decentralized Finance) protocol",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "go.liquidloans.io",
+      "url": "https://go.liquidloans.io/#/",
+      "name": "Liquid Loan",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/liquidloan/logo.jpeg",
+      "description": "Liquid Loans is the first truly decentralized lending protocol built specifically for PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.turbox.bond",
+      "url": "https://app.turbox.bond/",
+      "name": "TurboX",
+      "icon": "https://app.turbox.bond/assets/TurboX_Icon%20Mark-B4n4yCjb.png",
+      "description": "PulseChain Bonds",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "emit.farm",
+      "url": "https://emit.farm",
+      "name": "Emit Farm",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/Emit%20Farm/logo.jpg",
+      "description": "Decentralized Yield, Distributed Power",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "functionisland.com",
+      "url": "https://functionisland.com/",
+      "name": "Function Island",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Function_Island_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "experiment0x.xyz",
+      "url": "https://experiment0x.xyz/",
+      "name": "Experiment0x",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Experiment0x_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "xtime-app.xyz",
+      "url": "https://xtime-app.xyz/",
+      "name": "xTIME Dapp",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/xTIME_Dapp_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "degenprotocol.io",
+      "url": "https://degenprotocol.io/app",
+      "name": "Degen Protocol",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Degen_Protocol_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "powhr.xyz",
+      "url": "https://powhr.xyz/",
+      "name": "POWHR",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/POWHR_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "vfi-app.netlify.app",
+      "url": "https://vfi-app.netlify.app/",
+      "name": "VolumeFi",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/VolumeFi_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "mineshafts.xyz",
+      "url": "https://mineshafts.xyz/referer/0x19C1BB001fAa97bD0a07AC75719F380787Ae4759",
+      "name": "Mineshafts",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Mineshafts_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pulsechain.thegrayscurrency.com",
+      "url": "https://pulsechain.thegrayscurrency.com/",
+      "name": "TGC PulseChain",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/TGC_PulseChain_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "nexionpulse.com",
+      "url": "https://nexionpulse.com/",
+      "name": "Nexion",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Nexion_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.hocuspocus.finance",
+      "url": "https://app.hocuspocus.finance/",
+      "name": "Hocus Pocus",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Hocus_Pocus_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.2phux.io",
+      "url": "https://app.2phux.io",
+      "name": "2PHUX",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/2PHUX_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.0xbuffet.io",
+      "url": "https://www.0xbuffet.io/",
+      "name": "MCR369",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/MCR369_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "dextop.pro",
+      "url": "https://dextop.pro/",
+      "name": "Dextop.pro",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Dextop_pro_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "oink-pls.com",
+      "url": "https://oink-pls.com/",
+      "name": "OINK (PLSDAO)",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/OINK__PLSDAO__logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pulselitecoin.app",
+      "url": "https://pulselitecoin.app/",
+      "name": "PulseLitecoin",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/PulseLitecoin_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "robsidedstaking.netlify.app",
+      "url": "https://robsidedstaking.netlify.app/",
+      "name": "ROBsidedStaking",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/ROBsidedStaking_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "axisalive.app",
+      "url": "https://axisalive.app/",
+      "name": "AxisAlive",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/AxisAlive_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.x-usd.net",
+      "url": "https://www.x-usd.net/",
+      "name": "XUSD Vibratile Asset eco",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/XUSD_Vibratile_Asset_eco_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "alieneddierecords.com",
+      "url": "https://alieneddierecords.com/",
+      "name": "AlienEddieRecords",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/AlienEddieRecords_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.core.powercity.io",
+      "url": "https://www.core.powercity.io/",
+      "name": "Powercity Core",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Powercity_Core_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "winwin.finance",
+      "url": "https://winwin.finance/",
+      "name": "Winwin.finance",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Winwin_finance_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "betdream.io",
+      "url": "https://betdream.io/#/",
+      "name": "BetDream",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/BetDream_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pnutbut.com",
+      "url": "https://pnutbut.com/",
+      "name": "Pnutbut",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Pnutbut_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "xburn.win",
+      "url": "https://xburn.win",
+      "name": "Xburn.win",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Xburn_win_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.finvesta.io",
+      "url": "https://app.finvesta.io/",
+      "name": "Finvesta",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Finvesta_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.dexfinance.com",
+      "url": "https://www.dexfinance.com/",
+      "name": "dexfinance",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/dexfinance_logo.png",
+      "description": "dexfinance.com",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.growthdefi.com",
+      "url": "https://app.growthdefi.com/",
+      "name": "GrowthDeFi",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/GrowthDeFi_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.finvesta.eco",
+      "url": "https://www.finvesta.eco/",
+      "name": "Finvesta eco",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/plstart/Finvesta_eco_logo.png",
+      "description": "",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "dex.9mm.pro",
+      "url": "https://dex.9mm.pro/liquidity/140476?chain=pulsechain",
+      "name": "9mm",
+      "icon": "https://dex.9mm.pro/homeLogo.png",
+      "description": "Meet 9x market",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "barista.mcr369.io",
+      "url": "https://barista.mcr369.io/",
+      "name": "Barista",
+      "icon": "https://barista.mcr369.io/static/media/barista-logo.7bdbc0b0.png",
+      "description": "Automated Rebalancing for Liquid Loans",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.hexpool.party",
+      "url": "https://app.hexpool.party/",
+      "name": "HEX Pool Party    ",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/hexpoolparty/poolparty_logo.png",
+      "description": "A better way to stake HEX",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.ethena.fi",
+      "url": "https://www.ethena.fi/",
+      "name": "Ethena",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/ethena/ethena.png",
+      "description": "ENABLING THE INTERNET BOND",
+      "chainIds": [
+        1
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "raydium.io",
+      "url": "https://raydium.io/swap",
+      "name": "Raydium",
+      "icon": "https://seeklogo.com/images/R/raydium-ray-logo-D4B61E1A42-seeklogo.com.png",
+      "description": "An on-chain order book AMM powering the evolution of DeFi",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "investdex.io",
+      "url": "https://investdex.io/",
+      "name": "InvestDEX",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/investdex/invest-dex.cfe78605.png",
+      "description": "First Crypto Workstation, Organizational Tool, Live Prices, Real-Time Data & Charts",
+      "chainIds": [
+        369,
+        1,
+        56,
+        10,
+        137,
+        43114,
+        42161
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "revoke.cash",
+      "url": "https://revoke.cash/",
+      "name": "RevokeCash",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/revokecash/logo_400x400.jpeg",
+      "description": "Revoke Cash",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.aave.com",
+      "url": "https://app.aave.com/",
+      "name": "AAVE",
+      "icon": "https://assets.coingecko.com/markets/images/544/small/AAVE.png?1593088709",
+      "description": "Earn interest, borrow assets, and build applications",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        8453,
+        42161,
+        43114
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "vote.makerdao.com",
+      "url": "https://vote.makerdao.com/",
+      "name": "Maker",
+      "icon": "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826",
+      "description": "Vote with or delegate your MKR tokens to help protect the integrity of the Maker protocol",
+      "chainIds": [
+        1
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.compound.finance",
+      "url": "https://app.compound.finance/",
+      "name": "Compound",
+      "icon": "https://assets.coingecko.com/coins/images/12840/small/1_z8UrVtod3bme4-J_pXAQQA_2x.png?1602936322",
+      "description": "An algorithmic, autonomous interest rate protocol unlock a universe of open financial applications",
+      "chainIds": [
+        1,
+        10,
+        137,
+        8453,
+        42161
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.hex.com",
+      "url": "https://www.hex.com/",
+      "name": "HEXCrypto",
+      "icon": "https://assets.coingecko.com/coins/images/10103/small/HEX-logo.png?1575942673",
+      "description": "HEX Transfer and Stake",
+      "chainIds": [
+        1,
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "hedron.pro",
+      "url": "https://hedron.pro/#/dapp",
+      "name": "Hedron",
+      "icon": "https://hedron.pro/img/brand/white_center.png",
+      "description": "Take advantage of your HEX stake's maturity",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "impls.finance",
+      "url": "https://impls.finance/",
+      "name": "IMPLS Finance",
+      "icon": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1666019720-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FKSqllTN49vzDFIxXLfLO%252Ficon%252FoeDsKJaDcU6ugKjRzrME%252Ftoken.png%3Falt%3Dmedia%26token%3D1c503d2e-a6f1-46b0-a07c-fc3c7e8271c4",
+      "description": "IMPLS Finance",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "ophircrypto.ph",
+      "url": "https://ophircrypto.ph/",
+      "name": "OPHIR Crypto",
+      "icon": "https://github.com/thepulsewallet/coin-logos/blob/main/ophir-crypto-logo.jpeg?raw=true",
+      "description": "Unlocking abundance to fuel generosity",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.icosa.pro",
+      "url": "https://app.icosa.pro/",
+      "name": "ICOSA",
+      "icon": "https://icosa.pro/img/ICSA.b752eb7d.png",
+      "description": "HEDRON STAKING IS HERE",
+      "chainIds": [
+        1,
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "velodrome.finance",
+      "url": "https://velodrome.finance/",
+      "name": "Velodrome",
+      "icon": "https://velodrome.finance/brand-kit/symbol.png",
+      "description": "Velodrome",
+      "chainIds": [
+        1,
+        10,
+        56,
+        137,
+        369,
+        8453,
+        42161,
+        43114,
+        324
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pass.solana.id",
+      "url": "https://pass.solana.id/?referrer=MlZd8XG8z_2CBrc4UVOYq",
+      "name": "Solana ID",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/solana-id-logo.png",
+      "description": "Solana ID",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "jup.ag",
+      "url": "https://jup.ag/",
+      "name": "Jupiter Station",
+      "icon": "https://assets.coingecko.com/coins/images/34188/standard/jup.png",
+      "description": "Build World Class Swap Experiences Now",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "save.finance",
+      "url": "https://save.finance/dashboard",
+      "name": "Save Finance",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/savefinance/1280-circle.png",
+      "description": "Solana's permissionless savings account",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "app.marginfi.com",
+      "url": "https://app.marginfi.com/",
+      "name": "Marginfi",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/marginfi/marginfi-logomark-white.png",
+      "description": "Borrowing and lending protocol built on Solana",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "www.jito.network",
+      "url": "https://www.jito.network/staking/",
+      "name": "Jito SOL",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/jitosol/JitoSOL_Token_Logo_Black.png",
+      "description": "Solana's first staking product including MEV rewards",
+      "chainIds": [
+        900
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pulsemafia.io",
+      "url": "https://pulsemafia.io/",
+      "name": "Mafia",
+      "icon": "https://pulsemafia.io/static/media/logo_pls.469adc60ff49337147ad.png",
+      "description": "Play & Earn Blockchain game",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "pulsepot.io",
+      "url": "https://pulsepot.io/",
+      "name": "PULSEPOT",
+      "icon": "https://pulsepot.io/static/media/menu-logo-pulse.be320d97784534f64bed.png",
+      "description": "Worlds first truly decentralized casino",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
+      "id": "plsfolio.com",
+      "url": "https://plsfolio.com",
+      "name": "PLSfolio",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/PLSfolio/plsfolio_log.jpg",
+      "description": "All in one PulseChain tool for portfolio tracking, chain analysis, statistics and more",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "apphex.win",
+      "url": "https://apphex.win/chain/",
+      "name": "AppHex",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/AppHex/logo.png",
+      "description": "PulseChain Charts",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "www.g4mm4.io",
+      "url": "https://www.g4mm4.io/",
+      "name": "G4MM4",
+      "icon": "https://pbs.twimg.com/profile_images/1809010144312696833/xBrjsi2r_400x400.jpg",
+      "description": "Open Public Borderless Censorship-Resistant",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "pulsecoinlist.com",
+      "url": "https://pulsecoinlist.com/",
+      "name": "PulseCoinList",
+      "icon": "https://pbs.twimg.com/profile_images/1678880259163279360/Zs2-DbRT_400x400.jpg",
+      "description": "The PulseChain",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "gopulse.com",
+      "url": "https://gopulse.com/",
+      "name": "GoPulse",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/gopulse/logo.jpeg",
+      "description": "The PulseChain Suite with on-chain statistics",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "dune.com",
+      "url": "https://dune.com/_water_/pulsechain-bridge",
+      "name": "PulseChain Bridge Data",
+      "icon": "https://gopulse.com/icon.png",
+      "description": "The PulseChain Bridge data",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "debank.com",
+      "url": "https://debank.com",
+      "name": "Debank",
+      "icon": "https://raw.githubusercontent.com/DeBankDeFi/logo/refs/heads/master/DeBank/debank-icon.png",
+      "description": "Whale Asset Tracking, Paid Consultations, and Web3 Dynamic Community",
+      "chainIds": [
+        369
+      ],
+      "category": "Analytics"
+    },
+    {
+      "id": "sparkswap.xyz",
+      "url": "https://sparkswap.xyz/#",
+      "name": "Sparkswap",
+      "icon": "https://sparkswap.xyz/images/farms/spark.png",
+      "description": "Fully Decentralized Layered Yield Farm on IPFS & Pulsechain",
+      "chainIds": [
+        369
+      ],
+      "category": "Feature"
+    },
+    {
+      "id": "beatbox.market",
+      "url": "https://beatbox.market/",
+      "name": "Beatbox Market",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/main/dapps/beatbox/beatbox-logo.5e037ba4.png",
+      "description": "Beatbox Market",
+      "chainIds": [
+        369
+      ],
+      "category": "NFT"
+    },
+    {
+      "id": "www.coindesk.com",
+      "url": "https://www.coindesk.com/",
+      "name": "CoinDesk",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/coindesk/coindesk.png",
+      "description": "trusted media, events, indices and data company for the global crypto economy",
+      "chainIds": [
+        369
+      ],
+      "category": "News"
+    },
+    {
+      "id": "cryptonews.com",
+      "url": "https://cryptonews.com/",
+      "name": "cryptonews.com",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/cryptonews.com/cryptonews.png",
+      "description": "Crypto News: Latest Cryptocurrency News, Bitcoin News ...",
+      "chainIds": [
+        369
+      ],
+      "category": "News"
+    },
+    {
+      "id": "crypto.news",
+      "url": "https://crypto.news/",
+      "name": "CryptoNews",
+      "icon": "https://raw.githubusercontent.com/thepulsewallet/assets/refs/heads/main/dapps/crypto.news/logo.png",
+      "description": "Stay up-to-date on crypto market news",
+      "chainIds": [
+        369
+      ],
+      "category": "News"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/libertyswap-icon.svg"
