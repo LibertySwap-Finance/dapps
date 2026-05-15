@@ -1,10 +1,10 @@
 {
   "name": "ZKX Wallet Dapps",
-  "timestamp": "2026-05-07T05:36:27.421Z",
+  "timestamp": "2026-05-15T05:36:27.421Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "dapps": [
     {
@@ -29,7 +29,7 @@
     {
       "id": "x.libertyswap.finance",
       "url": "https://x.libertyswap.finance",
-      "name": "LibertyX",
+      "name": "Liberty DEX",
       "icon": "https://libertyswap.finance/android-icon-192x192.png",
       "description": "The premier PulseChain DEX aggregator featuring intent-based execution and built-in MEV protection. Enjoy a seamless trading experience with zero fees and optimal price routing across the entire ecosystem.",
       "chainIds": [
