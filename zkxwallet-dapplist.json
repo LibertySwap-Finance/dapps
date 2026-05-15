@@ -28,7 +28,7 @@
     },
     {
       "id": "x.libertyswap.finance",
-      "url": "https://x.libertyswap.finance",
+      "url": "https://dex.libertyswap.finance",
       "name": "Liberty DEX",
       "icon": "https://libertyswap.finance/android-icon-192x192.png",
       "description": "The premier PulseChain DEX aggregator featuring intent-based execution and built-in MEV protection. Enjoy a seamless trading experience with zero fees and optimal price routing across the entire ecosystem.",
