@@ -39,6 +39,35 @@
       "twitter": "LibertySwapFi"
     },
     {
+      "id": "libertyswap.finance/shield",
+      "url": "https://libertyswap.finance/shield",
+      "name": "Liberty Shield",
+      "icon": "https://libertyswap.finance/android-icon-192x192.png",
+      "description": "Liberty Shield: Shield and unshield powered by Railgun from any supported blockchain, even those not natively supported by Railgun.",
+      "chainIds": [
+        369,
+        1,
+        56,
+        8453,
+        42161,
+        137
+      ],
+      "category": "Dexes",
+      "twitter": "LibertySwapFi"
+    },
+    {
+      "id": "v2.privacypools.com",
+      "url": "https://v2.privacypools.com",
+      "name": "Privacy Pools",
+      "icon": "https://docs.privacypools.com/img/logo.svg",
+      "description": "Privacy Pool enables private withdrawals through a combination of zero-knowledge proofs and commitment schemes",
+      "chainIds": [
+        1
+      ],
+      "category": "Dexes",
+      "twitter": ""
+    },
+    {
       "id": "drops.bot",
       "url": "https://www.drops.bot/?r=ambire",
       "name": "Drops",
