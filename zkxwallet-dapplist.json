@@ -39,7 +39,7 @@
       "twitter": "LibertySwapFi"
     },
     {
-      "id": "libertyswap.finance/shield",
+      "id": "shield.libertyswap.finance",
       "url": "https://libertyswap.finance/shield",
       "name": "Liberty Shield",
       "icon": "https://libertyswap.finance/android-icon-192x192.png",
@@ -51,6 +51,18 @@
         8453,
         42161,
         137
+      ],
+      "category": "Dexes",
+      "twitter": "LibertySwapFi"
+    },
+    {
+      "id": "pool.libertyswap.finance",
+      "url": "https://pool.libertyswap.finance",
+      "name": "Liberty Pool",
+      "icon": "https://libertyswap.finance/android-icon-192x192.png",
+      "description": "Liberty Pool: A concentrated liquidity infrastructure protocol built for the PulseChain ecosystem.",
+      "chainIds": [
+        369
       ],
       "category": "Dexes",
       "twitter": "LibertySwapFi"
