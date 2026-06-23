@@ -41,9 +41,9 @@
     {
       "id": "predict.libertyswap.finance",
       "url": "https://predict.libertyswap.finance",
-      "name": "Liberty - Hypermarket",
+      "name": "Liberty Hypermarket",
       "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/libertyswap.png",
-      "description": "Liberty - Hypermarket: Prediction markets on Hyperliquid. Trade outcome contracts on real-world events — sports, politics, crypto — powered by HyperCore.",
+      "description": "Liberty HyperMarket is a decentralized prediction market platform built by LibertySwap on Hyperliquid HIP-4, offering low fees and strong liquidity. It’s the on-chain home for “bet on anything” markets",
       "chainIds": [
         369,
         42161
