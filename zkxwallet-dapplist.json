@@ -27,35 +27,6 @@
       "twitter": "LibertySwapFi"
     },
     {
-      "id": "dex.libertyswap.finance",
-      "url": "https://dex.libertyswap.finance",
-      "name": "Liberty DEX",
-      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/libertyswap.png",
-      "description": "The premier PulseChain DEX aggregator featuring intent-based execution and built-in MEV protection. Enjoy a seamless trading experience with zero fees and optimal price routing across the entire ecosystem.",
-      "chainIds": [
-        369
-      ],
-      "category": "Dexs",
-      "twitter": "LibertySwapFi"
-    },
-    {
-      "id": "shield.libertyswap.finance",
-      "url": "https://libertyswap.finance/shield",
-      "name": "Liberty Shield",
-      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/libertyswap.png",
-      "description": "Liberty Shield: Shield and unshield powered by Railgun from any supported blockchain, even those not natively supported by Railgun.",
-      "chainIds": [
-        369,
-        1,
-        56,
-        8453,
-        42161,
-        137
-      ],
-      "category": "Dexs",
-      "twitter": "LibertySwapFi"
-    },
-    {
       "id": "pool.libertyswap.finance",
       "url": "https://pool.libertyswap.finance",
       "name": "Liberty Pool",
