@@ -1,10 +1,10 @@
 {
   "name": "ZKX Wallet Dapps",
-  "timestamp": "2026-06-23T03:11:33.533Z",
+  "timestamp": "2026-06-23T03:32:33.533Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "dapps": [
     {
@@ -23,7 +23,7 @@
         84532,
         137
       ],
-      "category": "Dexes",
+      "category": "Dexs",
       "twitter": "LibertySwapFi"
     },
     {
@@ -35,7 +35,7 @@
       "chainIds": [
         369
       ],
-      "category": "Dexes",
+      "category": "Dexs",
       "twitter": "LibertySwapFi"
     },
     {
@@ -52,7 +52,7 @@
         42161,
         137
       ],
-      "category": "Dexes",
+      "category": "Dexs",
       "twitter": "LibertySwapFi"
     },
     {
@@ -64,7 +64,7 @@
       "chainIds": [
         369
       ],
-      "category": "Dexes",
+      "category": "Dexs",
       "twitter": "LibertySwapFi"
     },
     {
@@ -76,7 +76,7 @@
       "chainIds": [
         369
       ],
-      "category": "Exchange"
+      "category": "Dexs"
     },
     {
       "id": "gopulse.com",
@@ -87,7 +87,7 @@
       "chainIds": [
         369
       ],
-      "category": "Exchange"
+      "category": "Dexs"
     },
     {
       "id": "app.piteas.io",
@@ -98,7 +98,7 @@
       "chainIds": [
         369
       ],
-      "category": "Exchange"
+      "category": "Dexs"
     },
     {
       "id": "go.hex.com",
@@ -110,7 +110,7 @@
         1,
         369
       ],
-      "category": "DeFi"
+      "category": "Dexs"
     },
     {
       "id": "drops.bot",
