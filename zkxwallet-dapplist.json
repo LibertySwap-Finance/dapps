@@ -23,7 +23,7 @@
         84532,
         137
       ],
-      "category": "Dexs",
+      "category": "Dexes",
       "twitter": "LibertySwapFi"
     },
     {
@@ -35,7 +35,20 @@
       "chainIds": [
         369
       ],
-      "category": "Dexs",
+      "category": "Dexes",
+      "twitter": "LibertySwapFi"
+    },
+    {
+      "id": "predict.libertyswap.finance",
+      "url": "https://predict.libertyswap.finance",
+      "name": "Liberty - Hypermarket",
+      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/libertyswap.png",
+      "description": "Liberty - Hypermarket: Prediction markets on Hyperliquid. Trade outcome contracts on real-world events — sports, politics, crypto — powered by HyperCore.",
+      "chainIds": [
+        369,
+        42161
+      ],
+      "category": "Games",
       "twitter": "LibertySwapFi"
     },
     {
@@ -47,18 +60,7 @@
       "chainIds": [
         369
       ],
-      "category": "Dexs"
-    },
-    {
-      "id": "gopulse.com",
-      "url": "https://gopulse.com/faucet",
-      "name": "GoPulse",
-      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/gopulse.png",
-      "description": "The PulseChain Suite with on-chain statistics",
-      "chainIds": [
-        369
-      ],
-      "category": "Dexs"
+      "category": "Dexes"
     },
     {
       "id": "app.piteas.io",
@@ -69,7 +71,7 @@
       "chainIds": [
         369
       ],
-      "category": "Dexs"
+      "category": "Dexes"
     },
     {
       "id": "go.hex.com",
@@ -81,7 +83,7 @@
         1,
         369
       ],
-      "category": "Dexs"
+      "category": "Dexes"
     },
     {
       "id": "drops.bot",
@@ -147,7 +149,7 @@
       "name": "SpookySwap",
       "icon": "https://static.debank.com/image/project/logo_url/ftm_spookyswap/d14381e7154b7cfecaa8ba7887e73b95.png",
       "description": "Farm BOO with Spooky LP Tokens",
-      "category": "Dexs",
+      "category": "Dexes",
       "chainIds": [
         250,
         199,
