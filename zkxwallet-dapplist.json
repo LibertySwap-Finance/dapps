@@ -28,7 +28,7 @@
     },
     {
       "id": "pool.libertyswap.finance",
-      "url": "https://pool.libertyswap.finance",
+      "url": "https://pool.libertyswap.finance/liquidity/pools",
       "name": "Liberty Pool",
       "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/libertyswap.png",
       "description": "Liberty Pool: A concentrated liquidity infrastructure protocol built for the PulseChain ecosystem.",
