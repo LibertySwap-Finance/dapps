@@ -125,7 +125,7 @@
     },
     {
       "id": "bitrefill.com",
-      "url": "https://www.bitrefill.com",
+      "url": "https://www.bitrefill.com/us/",
       "name": "Bitrefill",
       "icon": "https://www.bitrefill.com/android-chrome-192x192.png",
       "description": "The crypto store for digital gift cards, eSIMs, and phone refills.",
@@ -422,15 +422,6 @@
       "icon": "https://static.debank.com/image/dapp/logo_url/ac6367301d0f398ffb3cdbdf38c1cb15/ac6367301d0f398ffb3cdbdf38c1cb15.png",
       "description": "Leading DEX on Base Chain with staking and farming.",
       "twitter": "BaseSwapDEX",
-      "category": "Dexes"
-    },
-    {
-      "id": "bitrefill.com",
-      "url": "https://www.bitrefill.com/us/",
-      "name": "Bitrefill",
-      "icon": "https://assets.debank.com/static/media/default-official-account.13534d219751131ef06e412f75923a7e.svg",
-      "description": "Buy Gift Cards & Top Up Airtime with Bitcoin or Crypto",
-      "twitter": "bitrefill",
       "category": "Dexes"
     }
   ],
