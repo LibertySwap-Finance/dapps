@@ -220,6 +220,15 @@
       "category": "Dexes"
     },
     {
+      "id": "finvesta.eco",
+      "url": "https://finvesta.eco/exchange/",
+      "name": "Finvesta",
+      "icon": "https://finvesta.eco/favicon.png",
+      "description": "Finvesta Eco Exchange is a self-custodial, browser-executed V3 interface for PulseChain",
+      "twitter": "Finvesta",
+      "category": "Dexes"
+    },
+    {
       "id": "app.debridge.finance",
       "url": "https://app.debridge.finance",
       "name": "deBridge",
