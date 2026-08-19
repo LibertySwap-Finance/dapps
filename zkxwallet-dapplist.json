@@ -126,6 +126,17 @@
       "category": "Dexes"
     },
     {
+      "id": "vouch.run",
+      "url": "https://app.vouch.run/",
+      "name": "Vouch",
+      "icon": "https://app.vouch.run/images/token/vPLS_trans.svg",
+      "description": "Liquid Staking on Pulsechain Get Your Share of Pulsechain Yield",
+      "chainIds": [
+        369
+      ],
+      "category": "DeFi"
+    },
+    {
       "id": "drops.bot",
       "url": "https://www.drops.bot",
       "name": "Drops",
