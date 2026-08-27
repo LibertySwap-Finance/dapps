@@ -1,12 +1,24 @@
 {
   "name": "ZKX Wallet Dapps",
-  "timestamp": "2026-06-23T03:32:33.533Z",
+  "timestamp": "2026-08-27T20:32:33.533Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
+  "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/libertyswap-icon.svg",
+
   "dapps": [
+    {
+      "id": "gopulse.com",
+      "url": "https://gopulse.com",
+      "name": "GoPulse",
+      "icon": "https://gopulse.com/brands/gopulse/android-icon-192x192.png",
+      "description": "Fast and low-fee USDC decentralized exchange platform. Swap USDC securely and efficiently on PulseChain.",
+      "chainIds": [369],
+      "category": "Dexes",
+      "twitter": ""
+    },
     {
       "id": "app.libertyswap.finance",
       "url": "https://app.libertyswap.finance",
