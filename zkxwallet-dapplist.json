@@ -149,6 +149,17 @@
       "category": "DeFi"
     },
     {
+      "id": "trenchdex.exchange",
+      "url": "https://trenchdex.exchange/",
+      "name": "TrenchDEX",
+      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/trenchex_logo.png",
+      "description": "Trench DEX is a PulseChain-native trading and launch ecosystem",
+      "chainIds": [
+        369
+      ],
+      "category": "Dexes"
+    },
+    {
       "id": "drops.bot",
       "url": "https://www.drops.bot",
       "name": "Drops",
