@@ -477,6 +477,15 @@
       "description": "Leading DEX on Base Chain with staking and farming.",
       "twitter": "BaseSwapDEX",
       "category": "Dexes"
+    },
+        {
+      "id": "jolt.build",
+      "url": "https://app.jolt.build/",
+      "name": "JoltBuild",
+      "icon": "https://app.jolt.build/assets/images/JOLT-ALL-SILVER.png",
+      "description": "Three ways to move capital — swap & limit, automated Queue DCA, or direct OTC execution on PulseChain",
+      "twitter": "JoltDOTBuild",
+      "category": "Dexes"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/libertyswap-icon.svg"
