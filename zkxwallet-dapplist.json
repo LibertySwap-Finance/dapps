@@ -481,8 +481,8 @@
         {
       "id": "jolt.build",
       "url": "https://app.jolt.build/",
-      "name": "JoltBuild",
-      "icon": "https://app.jolt.build/assets/images/JOLT-ALL-SILVER.png",
+      "name": "Jolt.Build",
+      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/JoltBuild_logo.png",
       "description": "Three ways to move capital — swap & limit, automated Queue DCA, or direct OTC execution on PulseChain",
       "twitter": "JoltDOTBuild",
       "category": "Dexes"
