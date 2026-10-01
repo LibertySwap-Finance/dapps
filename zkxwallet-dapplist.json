@@ -478,11 +478,20 @@
       "twitter": "BaseSwapDEX",
       "category": "Dexes"
     },
-        {
+    {
       "id": "jolt.build",
       "url": "https://app.jolt.build/",
       "name": "Jolt.Build",
       "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/JoltBuild_logo.png",
+      "description": "Three ways to move capital — swap & limit, automated Queue DCA, or direct OTC execution on PulseChain",
+      "twitter": "JoltDOTBuild",
+      "category": "Dexes"
+    },
+    {
+      "id": "hexity.jolt.build",
+      "url": "https://hexity.jolt.build/dashboard",
+      "name": "Hexity.Jolt.Build",
+      "icon": "https://raw.githubusercontent.com/libertyswap-finance/dapps/main/dapp-logo/hexity.jolt.build",
       "description": "Three ways to move capital — swap & limit, automated Queue DCA, or direct OTC execution on PulseChain",
       "twitter": "JoltDOTBuild",
       "category": "Dexes"
